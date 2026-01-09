@@ -3,7 +3,7 @@
 Guide to add authentication for monitoring APIs that require it.
 
 ## 🔐 Why Authentication?
-
+sdddssdddssdsd
 Many APIs return **404 Not Found** when accessed without authentication. This doesn't mean the service is down - it means you need to authenticate first.
 
 ## 📋 Setup Options
